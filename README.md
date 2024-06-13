@@ -1,8 +1,8 @@
 ## Hello Everyone, I'm Kelsey👋
 
 - 😄 Pronouns: she/they
-- 🔭 I’m currently working on updating websites and tackling LeetCode problems
-- 🌱 I’m currently learning about packaging software into containers using Docker 
+- 🔭 I’m currently working on updating websites and tackling ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+- 🌱 I’m currently learning about packaging software into containers using ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 - ⚡ Fun fact: I've been to 14 different countries and visited 28 states in the USA
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kelseyann77@gmail.com)](mailto:kelseyann77@gmail.com)
@@ -16,7 +16,7 @@ Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=f
 
 - Created a web application focusing on accessibility for a wider audience (i.e. using a color blind friendly color scheme, dyslexia friendly font, and more recipes that were friendly to different dietary restrictions)
 
-- Utilized ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+- Utilized ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
 -----
@@ -60,8 +60,12 @@ Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=f
 - Used ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) to web scrape comments from top ten LGBTQ+ subreddits from [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white&link=https://www.reddit.com/)](https://www.reddit.com/) posted from May 2022 - October 
 2022 to obtain a raw dataset and processed raw dataset using natural language processing software LIWC
   
-- Used ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) libraries pandas, numpy, scikit-learn, and matplotlib to perform cluster analyses and create parallel coordinate plots to effectively communicate findings from data
+- Used ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) to perform cluster analyses and create parallel coordinate plots to effectively communicate findings from data
 
 - Used ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) to obtain necessary data by parsing through large datafiles using regular expression 
 
 - Note: A lot of the .py and .R scripts in the /src folder were created and updated by me. My collaborator and I utilized ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) (specifically Google Colab) in order to share code with each other. Afterward, my collaborator took the initiative of uploading the code into their repository.
+
+
+## Credits
+[Markdown Badge Source](https://github.com/Ileriayo/markdown-badges)
