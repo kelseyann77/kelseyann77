@@ -20,7 +20,7 @@ Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=f
 
 
 -----
-### Craigslist Browser Extension
+### Google Chrome Extension for Las Cruces Craigslist
 #### November 2023 - December 2023
 Repository: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/MoreMoople/pebble-paradise/tree/main/craigslist)](https://github.com/MoreMoople/pebble-paradise/tree/main/craigslist)
 
