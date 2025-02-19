@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: she/they
 - 🔭 I’m currently working on updating websites and tackling ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-- 🌱 I’m currently learning about packaging software into containers using ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+- 🌱 I’m currently learning how to use the JavaScript library ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) to build better web applications
 - ⚡ Fun fact: I've been to 14 different countries and visited 28 states in the USA
 - 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kelseyann77@gmail.com)](mailto:kelseyann77@gmail.com)
